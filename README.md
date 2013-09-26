@@ -17,13 +17,15 @@ Installation
 Follow the instructions to install CocoaPods and AFNetworking on their pages.   
 Do not bother me about this.  
 Unzip the archive and drag the files in the archive into your Xcode project.
-Add: ```#import "PassServe.h"``` into the file which you will download passes with.
+Add:    
+```#import "PassServe.h"```     
+into the file which you will download passes with.
 
 Usage
 -----
 To generate a pass on a remote server, use:
 
-    [PassServe generatePassWithURL:@"http://pass.keatonburleson.com/example.php?name=%@" argument:@"joejoeboom" activityView:spinny webView:webView];
+    [PassServe generatePassWithURL:@"http://pass.keatonburleson.com/" argument:@"example.php?name=joejoeboom" activityView:spinny webView:webView];
 
 To download a pass from a remote server use:
      
