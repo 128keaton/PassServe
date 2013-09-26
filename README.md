@@ -14,10 +14,9 @@ Tested on iOS 7, might work on iOS 6
 
 Installation
 -----------
-Follow the instructions to install CocoaPods and AFNetworking on their pages.   
-Do not bother me about this.  
-Unzip the archive and drag the files in the archive into your Xcode project.
-Add:    
+1. Follow the instructions to install CocoaPods and AFNetworking on their pages. Do not bother me about this.  
+2. Unzip the archive and drag the files in the archive into your Xcode project.
+3. Add:    
 ```#import "PassServe.h"```     
 into the file which you will download passes with.
 
