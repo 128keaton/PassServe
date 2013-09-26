@@ -11,6 +11,11 @@ Compatibility
 ------------
 Tested on iOS 7, might work on iOS 6
 
+Installation
+-----------
+Unzip the archive and drag the files in the archive into your Xcode project.
+Add: ```#import "PassServe.h"``` into the file which you will download passes with.
+
 Usage
 -----
 To generate a pass on a remote server, use:
