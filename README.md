@@ -21,3 +21,9 @@ To download a pass from a remote server use:
      
     [PassServe downloadPassWithURL:[NSURL URLWithString:@"http://pass.keatonburleson.com/SavedPasses/pass.pkpass"] passName:@"joejoeboom.pkpass" webView:webView tableView:self.tableView overwrite:true];
      
+Future Plans
+------------
+
+- ~~ Download pass from remote source ~~
+- ~~ Generate pass from remote source ~~
+-    Full logging mode
