@@ -26,6 +26,10 @@ To download a pass from a remote server use:
      
     [PassServe downloadPassWithURL:[NSURL URLWithString:@"http://pass.keatonburleson.com/SavedPasses/pass.pkpass"] passName:@"joejoeboom.pkpass" webView:webView tableView:self.tableView overwrite:true];
      
+Demo
+----
+https://github.com/128keaton/Lucardio. To use this, you need cocoapods in the directory and have AFNetworking installed.
+
 Future Plans
 ------------
 
