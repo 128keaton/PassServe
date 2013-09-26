@@ -5,14 +5,17 @@ Two files that will make your life much easier.
 
 Requirements:
 ------------
-AFNetworking - https://github.com/AFNetworking/AFNetworking
-
+AFNetworking - https://github.com/AFNetworking/AFNetworking  
+CocoaPods - https://raw.github.com/128keaton/Lucardio/ios6/Podfile  
+Podfile - https://raw.github.com/128keaton/Lucardio/ios6/Podfile (Only use this if you do not know how to make a Podfile.  
 Compatibility
 ------------
 Tested on iOS 7, might work on iOS 6
 
 Installation
 -----------
+Follow the instructions to install CocoaPods and AFNetworking on their pages.   
+Do not bother me about this.  
 Unzip the archive and drag the files in the archive into your Xcode project.
 Add: ```#import "PassServe.h"``` into the file which you will download passes with.
 
