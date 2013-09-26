@@ -7,7 +7,7 @@ Requirements:
 ------------
 AFNetworking - https://github.com/AFNetworking/AFNetworking  
 CocoaPods - https://raw.github.com/128keaton/Lucardio/ios6/Podfile  
-Podfile - https://raw.github.com/128keaton/Lucardio/ios6/Podfile (Only use this if you do not know how to make a Podfile.  
+Podfile - https://raw.github.com/128keaton/Lucardio/ios6/Podfile (Only use this if you do not know how to make a Podfile.)  
 Compatibility
 ------------
 Tested on iOS 7, might work on iOS 6
