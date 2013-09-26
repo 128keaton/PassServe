@@ -24,6 +24,6 @@ To download a pass from a remote server use:
 Future Plans
 ------------
 
-- ~~ Download pass from remote source ~~
-- ~~ Generate pass from remote source ~~
+- ~~Download pass from remote source~~
+- ~~Generate pass from remote source~~
 -    Full logging mode
